@@ -6,7 +6,7 @@ sap.ui.define([
 	"com/offline/Offline/controller/ErrorHandler"
 ], function (UIComponent, Device, models, ListSelector, ErrorHandler) {
 	"use strict";
-
+//Fiori1
 	return UIComponent.extend("com.offline.Offline.Component", {
 
 		metadata: {
